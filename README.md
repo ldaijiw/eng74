@@ -12,12 +12,12 @@ Copy the text (use cat rsa_id.pub)
 Paste in github in SSH key section  
 
 Back on Bash type following instructions
-``
-	git init  
-	git add README.md  
-	git commit -m "commit message"  
-	git branch -M main  
-	git remote add origin https://github.com/ldaijiw/REPONAME.git  
-	git push -u origin main
-``         
+
+``git init``  
+``git add README.md``  
+``git commit -m "commit message"``  
+``git branch -M main``  
+``git remote add origin https://github.com/ldaijiw/REPONAME.git``  
+``git push -u origin main``
+        
 
