@@ -23,9 +23,10 @@ Back on Bash type following instructions
 
 For general changes
 
--``git add .``
--``git commit -m "msg"``
+-``git add .``  
+-``git commit -m "msg"``  
 -``git push -u origin main``
+
 
 If changes have been made that are not synced on localhost use
 
