@@ -13,20 +13,22 @@ Generating an SSH key with Bash
 
 Back on Bash type following instructions
 
-``git init``  
-``git add README.md``  
-``git commit -m "commit message"``  
-``git branch -M main``  
-``git remote add origin https://github.com/ldaijiw/REPONAME.git``  
-``git push -u origin main``
-        
+```
+git init  
+git add README.md  
+git commit -m "commit message"  
+git branch -M main  
+git remote add origin https://github.com/ldaijiw/REPONAME.git  
+git push -u origin main
+```        
 
 For general changes
 
-``git add .``  
-``git commit -m "msg"``  
-``git push -u origin main``
-
+```
+git add .  
+git commit -m "msg"  
+git push -u origin main
+```
 
 If changes have been made that are not synced on localhost use
 
