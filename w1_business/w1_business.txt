@@ -8,8 +8,23 @@ GRIT
 
 Essential characteristics of a consultant
 Difference between employee and consultant
+CMADE for presentations
+Confidence
+Manner
+Attitude
+Dilligence
+Enthusiasm
 
 
+Structure:
+Introduce the team
+Introduction
+What its about
+What is included
+Sections
+Less text and more talking
+Any questions?
+Summary
 
 20/10/2020
 
@@ -19,4 +34,5 @@ git
 
 SSH key
 Markdowns
-	
+Writing emails in a professional manner
+
