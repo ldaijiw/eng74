@@ -12,6 +12,10 @@ Key Performance Indicators (KPIs)
 - Imaginative
 
 GRIT will carry you much further than talent. Perseverance and discipline is more important than motivation.
+- Passion
+- Purpose
+- Practice
+- Hope
 
 ## Presentation skills
 
