@@ -207,6 +207,7 @@ Stakeholders: Anyone involved in the project, including employees and competitor
 
 **Power/Interest Grid**
 
+![](images/powerinterest.png)
 
 Stakeholder Attitudes
 - Champion

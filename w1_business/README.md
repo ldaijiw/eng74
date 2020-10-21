@@ -15,7 +15,7 @@
 - Cognitive Biases and the 6 Coloured Hats
 
 
-#### 20/10/2020
+#### 21/10/2020
 
 - Critical Thinking
 - Enquiry-Based Learning
