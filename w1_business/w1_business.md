@@ -55,7 +55,7 @@ Topics covered
 Reminder that the relationship between input and output is not equal.  
 For example for a financial advisor: 80% of the revenue should come from the top 20 clients. Therefore it's important to think about where to focus your efforts to maximise this relationship. e.g. the advisor should focus their efforts on improving and maintaining their relationships with the top 20 clients.
 
-#### Eisenhower Principle
+#### Eisenhower Model
 
 Two types of activities:
 
@@ -94,6 +94,7 @@ Topics covered:
 - Critical thinking
 - Debating
 - Product environment
+- GDPR
 
 ## Critical Thinking
 
