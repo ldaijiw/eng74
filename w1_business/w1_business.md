@@ -86,3 +86,17 @@ Exploiting bias in the work place
 - Social proof: People look to others to determine their own actions
 
 Before giving feedback, think about why do you want to give feedback, what are you trying to achieve 
+
+
+### 21/10/2020
+
+Topics covered:
+- Critical thinking
+- Debating
+- Product environment
+
+## Critical Thinking
+
+## Debating
+
+## Product Environment 
