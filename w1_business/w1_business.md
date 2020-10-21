@@ -69,4 +69,20 @@ Can consider 4 types:
 - Not Important but Urgent: Prevent you from achieving your goals, ask yourself whether you can reschedule or delegate them
 - Not Important and Not Urgent: Just a distraction, avoid if possible
 
+**2 MINUTE RULE: If it can be completed in 2 minutes it's worth doing**
 
+##Communication
+
+Delivery always affects the message - how you say it is more important than the content.  
+**THE REAL MESSAGE IS THE ONE RECEIVED NOT THE ONE INTENDED**
+
+Cognitive biases - assumptions that we make that can be detrimental
+
+Exploiting bias in the work place
+- Reactance: By telling people they are able to say no will make them more likely to say yes
+- Reciprocity: Be the first to give feeling of obligation to give when you receive personalised and unexpected makes it even better.
+- Door in the face: Forcing people to refuse a large request increases the likelihood of agreeing to a second, smaller request
+- Likeability: Give compliments and build cooperation
+- Social proof: People look to others to determine their own actions
+
+Before giving feedback, think about why do you want to give feedback, what are you trying to achieve 
