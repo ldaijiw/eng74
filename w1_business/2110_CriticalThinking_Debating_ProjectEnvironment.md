@@ -138,6 +138,8 @@ Triple Constraint
 - Cost
 - Quality
 
+![](tripleconstraint.png)
+
 Finding the balance between the three can be difficult. Will have to compromise.
 
 POPIT model aka. The Holistic Triangle
@@ -147,17 +149,22 @@ POPIT model aka. The Holistic Triangle
 - People
 - Process
 
+![](POPIT-Model.png)
 
 #### Software Development Lifecycle
 
 SD Methodologies
 - Waterfall
+![](images/waterfall.png)
 - V-Model
+![](images/vmodel.png)
 - Agile
+![](images/agile.png)
 - Scrum Framework
+![](scrum.png)
 
-Management Plans and SDLCs
-
+### Management Plans and SDLCs
+![](images/SDLC.png)
 
 Attributes of Mature Teams
 - Co-Located
@@ -170,6 +177,8 @@ Attributes of Mature Teams
 
 Business Cases:
 - Justification for the proposed project needed to obtain authorisation from the board
+
+![](images/businesscases.png)
 
 Basic Techniques for Analysis
 - MOST
