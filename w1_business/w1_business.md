@@ -199,5 +199,34 @@ Logical Fallacies to Look for
 
 Art of Persuasion
 
+Three Pillars of Rhetoric
+- Ethos: Appealing through authority or credibility
+- Pathos: Appealing through emotional empathy
+- Logos: Appealing through logic and reasoning
+
+Important Skills for Debating
+- Keep points relevant
+- Provide evidence
+- Remain objective
+- Consider audience's attention span
+- Use notes but keep them brief and well organised
+
+Do
+- Be prepared
+- Stay calm
+- Speak clearly and confidently
+- Keep your language simple
+- Active listening
+
+Don't
+- Falsify or alter evidence
+- Publicly disagree with the decision
+- Attack a speaker rather than the motion
+- Act aggressively or offensively
+- Interrupt others
+- Disagree with facts or obvious truths
+
+It's ok to make mistakes and agree. Don't raise your voice, improve your argument
+
 
 ## Product Environment 
