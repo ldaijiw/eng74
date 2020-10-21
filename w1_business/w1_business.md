@@ -78,6 +78,19 @@ Delivery always affects the message - how you say it is more important than the 
 
 Cognitive biases - assumptions that we make that can be detrimental
 
+- Bandwagon bias: Someone joins a task just because everyone else is doing it
+- Confirmation bias
+- Anchoring: Remembering the first or most noticeable event instead of looking at everything evenly
+
+
+Hats 6 colours
+- White: Represents facts, information, and statistical data, as well as identifying missing information and from which sources it may be collected.
+- Red: Symbolizes emotions and feelings
+- Yellow: Signifies positive rationality, and is used to look at the positive aspects of a situation or idea, on the potential benefits of the suggested course of action
+- Black: Used to discuss the negative repercussions of the plans, the potential dangers.
+- Green: Creativity and unconventional thinking
+- Blue: Making decisions, directing the discussion, and summarising the major points of the discussion
+
 Exploiting bias in the work place
 - Reactance: By telling people they are able to say no will make them more likely to say yes
 - Reciprocity: Be the first to give feeling of obligation to give when you receive personalised and unexpected makes it even better.
@@ -85,8 +98,10 @@ Exploiting bias in the work place
 - Likeability: Give compliments and build cooperation
 - Social proof: People look to others to determine their own actions
 
-Before giving feedback, think about why do you want to give feedback, what are you trying to achieve 
 
+Conflict resolution:
+- Before giving feedback, think about why do you want to give feedback, what are you trying to achieve 
+- Take time to understand the situation, know your audience, ask others for their perspective, compromise.
 
 ### 21/10/2020
 
