@@ -229,4 +229,98 @@ Don't
 It's ok to make mistakes and agree. Don't raise your voice, improve your argument
 
 
-## Product Environment 
+## Project Environment 
+
+BAU is the normal execution of standard operations within an organisation
+
+A project is unique and transient with a desired outcome.
+
+Project lifecycle
+- Initiation
+- Planning
+- Executing
+- Monitoring and Controlling
+- Closing
+
+Triple Constraint
+- Time
+- Cost
+- Quality
+
+Finding the balance between the three can be difficult. Will have to compromise.
+
+POPIT model aka. The Holistic Triangle
+
+- Organisation
+- Technology
+- People
+- Process
+
+
+#### Software Development Lifecycle
+
+SD Methodologies
+- Waterfall
+- V-Model
+- Agile
+- Scrum Framework
+
+Management Plans and SDLCs
+
+
+Attributes of Mature Teams
+- Co-Located
+- Cross Functional Roles
+- Self-Organising
+- ACcountable and Empowered
+
+
+#### Essential Project Knowledge
+
+Business Cases:
+- Justification for the proposed project needed to obtain authorisation from the board
+
+Basic Techniques for Analysis
+- MOST
+- Boston Box
+- Porters Five Forces
+- PESTLE
+- SWOT
+- Workshops
+- Interviews
+- Questionnaires
+
+Return on Investment (ROI): Need to consider when profits will actually be made after initial investment
+
+All comes down to the worth of the product to the people who need it
+
+Sources of Risk
+- Technology
+- Team
+- Scope
+- Business
+- Economy
+- Competition
+
+Dealing with Risk
+- Avoidance
+- Transfer
+- Reduce
+- Accept
+- Exploit
+- Share
+- Enhance
+- Ignore
+
+Stakeholders: Anyone involved in the project, including employees and competitors
+
+**Power/Interest Grid**
+
+
+Stakeholder Attitudes
+- Champion
+- Supporter
+- Neutral
+- Critic
+- Opponent
+- Blocker
