@@ -26,3 +26,4 @@
 #### 22/10/2020
 
 - **G**eneral **D**ata **P**rotection **R**egulation
+- Cyber Security
