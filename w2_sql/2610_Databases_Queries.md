@@ -79,4 +79,21 @@ DB Tools
 
 ### Creating a DB
 
+```
 CREATE DATABASE db_name;
+```
+
+Then use to create table
+```
+USE db_name;
+CREATE TABLE table_name(
+	col1 VARCHAR(10),
+	col2 VARCHAR(6),
+)
+```
+- VARCHAR(N): Datatype,  Variable Character, each entry can have max N characters
+
+``-- double dash to make a comment``
+
+
+
