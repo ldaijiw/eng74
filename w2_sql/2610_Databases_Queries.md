@@ -38,3 +38,19 @@ Relationships can be shown with a **E**ntity **R**elationship **D**iagram
 **Foreign Key**: Primary key that exists in a separate table, builds relationship to primary table.
 
 
+### Designing A Database
+
+DB Tools
+- Access: Microsoft product for DB
+- SQL Server: Also MS
+- PostgreSQL: Open source
+- SQLite
+- MySQL
+- Redis
+- mongoDB
+- Oracle
+
+
+
+
+
