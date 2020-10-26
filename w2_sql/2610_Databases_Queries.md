@@ -94,6 +94,15 @@ CREATE TABLE table_name(
 - VARCHAR(N): Datatype,  Variable Character, each entry can have max N characters
 
 ``-- double dash to make a comment``
+``SP_HELP table_name`` to see table info
 
-
+**Data Types**
+- VARCHAR: Adaptable to different lengths of characters
+- CHARACTER or CHAR: Data must be at a fixed length, fixed amount of space used
+- INT: Holds integer value (also bigint/smallint/tinyint)
+- DATE/TIME/DATETIME: Stores date/time
+- DECIMAL/NUMERIC: Fixed precision and scale (digits to right of decimal point)
+- BINARY: Used to store binary data such as an image or file
+- FLOAT: Scientific use (very large numbers)
+- BIT: Equivalent to binary (0,1, or NULL)
 
