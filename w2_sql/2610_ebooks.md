@@ -13,13 +13,13 @@ _What is the relationship between the tables?_
 - USER to Booking: One user can make bookings for multiple Ebooks, therefore it is a 1:N relationship.
 - EBook to Booking: An instance of an EBook can be checked out multiple times, therefore it would be a 1:N relationship.
 
-_Can users rent out books?_
+_Can users rent out books?_  
 A user can rent out multiple books through multiple bookings.
 
-_How many 1:N relationships are there?_
+_How many 1:N relationships are there?_  
 There are 3 1:N relationships.
 
-_Do we have or do we need a N:N relationship?_
+_Do we have or do we need a N:N relationship?_  
 If we allow for multiple users to contribute to one book then User-to-Ebook would be a N:N relationship. Also if we allow for multiple EBooks to be checked out for one booking then that would also be a N:N relationship.
 
 
