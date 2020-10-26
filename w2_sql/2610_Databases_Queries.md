@@ -94,6 +94,7 @@ CREATE TABLE table_name(
 - VARCHAR(N): Datatype,  Variable Character, each entry can have max N characters
 
 ``-- double dash to make a comment``
+
 ``SP_HELP table_name`` to see table info
 
 **Data Types**
@@ -106,3 +107,51 @@ CREATE TABLE table_name(
 - FLOAT: Scientific use (very large numbers)
 - BIT: Equivalent to binary (0,1, or NULL)
 
+``DROP TABLE table_name`` to delete table
+
+To add a new column
+```
+ALTER TABLE table_name
+ADD new_column datatype;
+```
+
+Changing column properties (to not accept null values) 
+```
+ALTER TABLE table_name
+ALTER COLUMN column_name VARCHAR(N) NOT NULL;
+```
+### Inserting Data
+
+Insert entry
+
+```
+INSERT INTO table_name
+(
+	col1, col2
+)
+VALUES
+(
+	'val1', 'val2'
+);
+```
+- If columns aren't specified then it assumes same order as in table.
+- VARCHAR, CHAR, and DATE all use quotes, FLOAT and INT don't need quotes.
+- Specifying NOT NULL ensures that value is specified for an entry
+- Can assign DEFAULT values if not specified
+- Can use IDENTITY PRIMARY KEY to automatically create an incrementing id for each entry
+
+
+### Update and Delete
+
+Updating values
+```
+UPDATE table name
+	SET value  = 1
+	WHERE value = 2
+```
+
+Deleting values
+```
+DELETE FROM table_name
+WHERE value = 1;
+```
