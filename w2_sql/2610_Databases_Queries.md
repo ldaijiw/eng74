@@ -146,8 +146,8 @@ VALUES
 Updating values
 ```
 UPDATE table name
-	SET value  = 1
-	WHERE value = 2
+	SET column_to_update  = new_value
+	WHERE user_id = id_number
 ```
 
 Deleting values
@@ -155,3 +155,6 @@ Deleting values
 DELETE FROM table_name
 WHERE value = 1;
 ```
+
+### Normal Form
+
