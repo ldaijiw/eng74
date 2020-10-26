@@ -52,5 +52,31 @@ DB Tools
 
 
 
+## SQL
 
+**S**tructured **Q**uery **L**anguage
 
+**D**ata **M**anipulation **L**anguage
+- SELECT
+- INSERT
+- UPDATE
+- DELETE
+
+**D**ata **D**efinition **L**anguage
+- CREATE
+- ALTER
+- DROP
+- TRUNCATE
+
+**D**ata **C**ontrol **L**anguage
+- GRANT
+- REVOKE
+
+**T**ransaction **C**ontrol **L**anguage
+- COMMIT
+- ROLLBACK
+- SAVEPOINT
+
+### Creating a DB
+
+CREATE DATABASE db_name;
