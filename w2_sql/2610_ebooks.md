@@ -43,7 +43,7 @@ CREATE TABLE ebooks(
 	ebook_id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
 	user_id INT FOREIGN KEY REFERENCES users(user_id),
 	title VARCHAR(30) NOT NULL,
-	location VARCHAR(10) NOT NULL,
+	ebook_location VARCHAR(10) NOT NULL,
 	release_date DATE NOT NULL
 );
 
