@@ -55,16 +55,16 @@ Wildcards can be used as a substitute for any other characters in a string when 
 - [^charlist]: Sets and ranges of characters that don't match, i.e. LIKE [^ABC]% will bring back anything that does not start with those letters
 
 
-**IN**
+**IN**  
 ``WHERE item IN ('loc1', 'loc2')`` will find items are in location 1 or 2
 
-**BETWEEN**
+**BETWEEN**  
 ``WHERE number BETWEEN 0 AND 10`` will find number between 0 and 10
 
-**AS**
+**AS**  
 Gives option to rename output column name
 
-**Concatenate**
+**Concatenate**  
 Use + to concatenate outputs
 ``City + ', ' + Country AS 'City'`` will output _London, UK_
 
