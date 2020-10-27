@@ -46,7 +46,7 @@ As a PMO/BA
 
 Beware of correct formatting for WHERE clauses, e.g. VARCHAR requires ''  
 
-**WildCards**
+**WildCards**  
 Wildcards can be used as a substitute for any other characters in a string when using the LIKE operator
 - %: A substitute for zero or more characters
 - _: A substitute for a single character
@@ -65,6 +65,6 @@ Wildcards can be used as a substitute for any other characters in a string when 
 Gives option to rename output column name
 
 **Concatenate**  
-Use + to concatenate outputs
+Use + to concatenate outputs  
 ``City + ', ' + Country AS 'City'`` will output _London, UK_
 
