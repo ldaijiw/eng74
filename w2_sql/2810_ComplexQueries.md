@@ -23,3 +23,36 @@
 - YEAR(date): Extracts year from date
 - MONTH(date): Extracts month from date
 - DAY(date): Extracts day from date 
+
+### Case Statements
+
+CASE statements can be useful when you need varying results output based on differing data
+```
+SELECT CASE
+WHEN DATEDIFF(d, OrderDate, ShippedDate) < 10 THEN 'On Time'
+ELSE 'Overdue'
+END AS 'Status'
+FROM Orders;
+```
+
+### Aggregate Functions
+
+- AVG
+- MIN
+- MAX
+- SUM
+
+### Filtering
+
+- HAVING is used instead of WHERE when filtering on subtotals/grouped data
+- Column Aliases cannot be used in the HAVING clause
+- Aggregate functions are not available for use in the WHERE clause due to the SQL processing sequence
+
+```
+SELECT SupplierID
+SUM(Units),
+AVG(Units)
+FROM Products
+GROUP BY SupplierID
+HAVING AVG(Units) > 5;
+```
