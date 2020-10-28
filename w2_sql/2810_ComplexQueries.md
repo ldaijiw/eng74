@@ -2,7 +2,6 @@
 
 ## Complex Queries
 
-
 ### String Functions
 
 - SUBSTRING(expression, start, length): e.g. SUBSTRING(name,1,1) for initials
@@ -56,3 +55,13 @@ FROM Products
 GROUP BY SupplierID
 HAVING AVG(Units) > 5;
 ```
+### Joins and Subqueries
+
+**ALIASING TABLES**
+```
+SELECT *
+FROM ORDERS o
+JOIN Customers c ON o.customer_id = c.customer_id;
+```
+
+![](sql-joins.png)
