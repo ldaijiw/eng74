@@ -13,3 +13,13 @@
 - UPPER or LOWER: Convert to upper/lower case
 - REPLACE(name, 'old', 'new'): replace characters in string, e.g. REPLACE(name, ' ', '_') replaces space with underscore
 
+
+### Date Functions
+
+- GETDATE(): Returns date in date(time) format
+- SYSDATETIME(): Return date and time of computer being used
+- DATEADD(): DATEADD(d,5, OrderDate) adds 5 days
+- DATEDIFF(): DATEDIFF(d, OrderDate, ShippedDate) calculate differences between dates
+- YEAR(date): Extracts year from date
+- MONTH(date): Extracts month from date
+- DAY(date): Extracts day from date 
