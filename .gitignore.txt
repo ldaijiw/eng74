@@ -1,2 +1,0 @@
-~/Desktop/eng74/w3_python1/venv
-
