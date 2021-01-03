@@ -54,7 +54,10 @@ DevOps Course
 ## DevOps and Agile
 
 **Topics Covered**
-- Why Devops
+- Why DevOps?
+- Agile
+- Scrum
+- Kanban
 - Epic and User Stories
 
 [Return to top](#Contents)
