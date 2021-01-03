@@ -59,12 +59,6 @@ DevOps Course
 
 ## GitHub
 
-[Return to top](#Contents)
-
-## Bash
-
-[Return to top](#Contents)
-
 #### Connecting to GIT
 
 Generating an SSH key with Bash
@@ -97,3 +91,10 @@ git push -u origin main
 If changes have been made that are not synced on localhost use
 
 ``git pull``
+
+[Return to top](#Contents)
+
+## Bash
+
+[Return to top](#Contents)
+
