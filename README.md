@@ -19,9 +19,27 @@ DevOps Course
 
 ## Business
 
+**Topics Covered**
+- Key Performance Indicators
+- Time and Task Management
+- Communication Skills
+- Critical Thinking
+- Debating
+- Project Environments
+- GDPR
+- Cyber Security
+- Interview Skills
+- Power words
+
 [Return to top](#Contents)
 
 ## SQL
+
+**Topics Covered**
+- Databases
+- Normal Forms
+- Queries
+- Subqueries
 
 [Return to top](#Contents)
 
@@ -34,6 +52,10 @@ DevOps Course
 [Return to top](#Contents)
 
 ## DevOps and Agile
+
+**Topics Covered**
+- Why Devops
+- Epic and User Stories
 
 [Return to top](#Contents)
 

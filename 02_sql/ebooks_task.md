@@ -34,14 +34,15 @@ USE booksareus_db;
 -- create tables
 CREATE TABLE users(
 	user_id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-	name VARCHAR(20) NOT NULL,
-	email VARCHAR(30) NOT NULL,
-	phone_number VARCHAR(13) NOT NULL
+	user_firstname VARCHAR(255) NOT NULL,
+	user_lastname VARCHAR(255) NOT NULL,	
+	user_email VARCHAR(255) NOT NULL,
+	user_number VARCHAR(13) NOT NULL
 );
 
 CREATE TABLE ebooks(
 	ebook_id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-	user_id INT FOREIGN KEY REFERENCES users(user_id),
+	user_id INT REFERENCES users(user_id),
 	title VARCHAR(30) NOT NULL,
 	ebook_location VARCHAR(10) NOT NULL,
 	release_date DATE NOT NULL
@@ -49,10 +50,20 @@ CREATE TABLE ebooks(
 
 CREATE TABLE bookings(
 	booking_id INT NOT NULL IDENTITY(1,1) PRIMARY KEY,
-	user_id INT FOREIGN KEY REFERENCES users(user_id),
-	ebook_id INT FOREIGN KEY REFERENCES ebooks(ebook_id),
+	user_id INT REFERENCES users(user_id),
+	ebook_id INT REFERENCES ebooks(ebook_id),
 	booking_date DATE NOT NULL,
 	price DECIMAL(5,2) NOT NULL
 );
+
+-- inserting data
+
+INSERT INTO users
+VALUES('', '', '', '');
+
+
+INSERT INTO bookings
+VALUES(u_id, e_id, GETDATE(), 00.00);
+-- use GETDATE() for current date(time)
 ```
 
